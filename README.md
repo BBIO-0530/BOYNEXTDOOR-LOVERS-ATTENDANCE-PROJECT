@@ -32,9 +32,9 @@
 * **Members**: 성호, 리우, 재현, 태산, 이한, 운학, 지코
 * **Crews**: Makeup crew, Clothing crew, Hairstyle crew, HYBE LABLES MEDICAL TEAM
 
-
-📋🖋️💼출퇴근 현황 확인📋🖋️💼
 ```
+📋🖋️💼출퇴근 현황 확인📋🖋️💼
+
 성호:0/1
 리우:0/1
 재현:0/1
