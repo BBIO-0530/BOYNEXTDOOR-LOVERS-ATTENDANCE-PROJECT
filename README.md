@@ -32,6 +32,8 @@
 * **Members**: 성호, 리우, 재현, 태산, 이한, 운학, 지코
 * **Crews**: Makeup crew, Clothing crew, Hairstyle crew, HYBE LABLES MEDICAL TEAM
 
+
+## 💡 데모 / 사용 예시 (Usage Example)
 ```
 📋🖋️💼출퇴근 현황 확인📋🖋️💼
 
