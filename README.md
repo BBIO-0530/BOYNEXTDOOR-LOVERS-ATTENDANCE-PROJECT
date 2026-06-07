@@ -60,7 +60,6 @@ HYBE LABLES MEDICAL TEAM:0/12
 성호님의 스케줄
 07:10 : 🎤 (신규 앨범)노래 녹음
 09:00 : 💪 🏃‍♂️운동 시간
-...
 
 ## ✍️ 개발 노트 (Developer's Note)
 
