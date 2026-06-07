@@ -32,11 +32,9 @@
 * **Members**: 성호, 리우, 재현, 태산, 이한, 운학, 지코
 * **Crews**: Makeup crew, Clothing crew, Hairstyle crew, HYBE LABLES MEDICAL TEAM
 
-## 💡 데모 / 사용 예시 (Usage Example)
-
-[실행 화면 예시]
 
 📋🖋️💼출퇴근 현황 확인📋🖋️💼
+```
 성호:0/1
 리우:0/1
 재현:0/1
@@ -48,10 +46,11 @@ Makeup crew:0/12
 Clothing crew:0/12
 Hairstyle crew:0/12
 HYBE LABLES MEDICAL TEAM:0/12
-출퇴근 등록을 하시겠습니까?(예/아니요): 
+
+출퇴근 등록을 하시겠습니까?(예/아니요): 예
 어느 것을 하시겠습니까? ('출근' 또는 '퇴근' 입력): 출근
 이름을 입력하세요 (예: 성호): 성호
-비밀번호를 입력하세요: 
+비밀번호를 입력하세요: ********
 ----------------------------------------
 
 성호님!
@@ -61,6 +60,9 @@ HYBE LABLES MEDICAL TEAM:0/12
 성호님의 스케줄
 07:10 : 🎤 (신규 앨범)노래 녹음
 09:00 : 💪 🏃‍♂️운동 시간
+
+```
+
 
 ## ✍️ 개발 노트 (Developer's Note)
 
